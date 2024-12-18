@@ -1,0 +1,1 @@
+print('Toy podrido')
